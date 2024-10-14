@@ -1,0 +1,61 @@
+.height-number {
+    height: 65px;
+}
+
+.card-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-number {
+    width: 50%;
+}
+
+.cvc {
+    width: 20%;
+}
+
+.amount {
+    width: 30%;
+}
+
+.amount-value {
+    height: 30px;
+}
+
+.amount-value input {
+    width: 100%;
+}
+
+.block-name {
+    width: 50%;
+}
+
+.block-direction {
+    width: 50%;
+}
+
+.direction-state {
+    margin-right: 12px;
+    margin-left: 16px;
+    width: 50%;
+}
+
+.direction-cp {
+    width: 50%;
+    margin-right: 16px;
+}
+
+.card-footer {
+    height: 50px;
+}
+
+.form-check {
+    margin: 0 12px;
+}
+
+.credit-card-box {
+    width: 100%;
+    max-inline-size: fit-content;
+    background-color: grey;
+}
